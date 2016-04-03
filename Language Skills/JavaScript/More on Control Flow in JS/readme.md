@@ -89,7 +89,7 @@ switch(candy) {
 ```
 ##7. More practice with switch
 ```script.js
-scvar answer = prompt("How are you feeling","Insert Feels Here");
+var answer = prompt("How are you feeling","Insert Feels Here");
 
 switch(answer) {
   case 'Happy':
